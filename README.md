@@ -1,4 +1,4 @@
-# Star Wars Quotes Web App: <a href="">Try it!</a>
+# Star Wars Quotes Web App
 
 <img src=https://user-images.githubusercontent.com/57073322/213895421-c6bfc7fa-2218-4cd3-a91e-8701c1ab8e07.png width="50%" alt="Screenshot of the app">
 
