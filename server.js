@@ -6,7 +6,7 @@ const MongoClient = require('mongodb').MongoClient
 const app = express();
 
 //LINK TO DATABASE
-MongoClient.connect('mongodb+srv://<username>:<password>@cluster0.muk2ci3.mongodb.net/?retryWrites=true&w=majority', {
+MongoClient.connect('[MongoDB Credentials]', {
     useUnifiedTopology: true })
     .then(client => {
         console.log('Connected to database.')
